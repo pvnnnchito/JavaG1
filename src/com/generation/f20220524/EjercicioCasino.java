@@ -2,7 +2,7 @@ package com.generation.f20220524;
 
 import java.util.Scanner;
 
-public class pruebas {
+public class EjercicioCasino {
 
 	public static void main(String[] args) {
 	   

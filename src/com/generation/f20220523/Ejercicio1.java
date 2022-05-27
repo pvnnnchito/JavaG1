@@ -1,6 +1,6 @@
 package com.generation.f20220523;
 
-public class Main {
+public class Ejercicio1 {
 
 	public static void main(String[] args) {
 		int iva = 20;

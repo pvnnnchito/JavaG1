@@ -1,4 +1,4 @@
-package com.generation.f20220523;
+ package com.generation.f20220523;
 
 public class main {public static void main(String[] args) {
 		
@@ -29,7 +29,7 @@ public class main {public static void main(String[] args) {
 	int num1 = 12;
 	
 	Double peso2 = 75.9;
-	Float peso2F = 24234;
+	Float peso2F = 24234f;
 
 
 			
@@ -47,11 +47,11 @@ public class main {public static void main(String[] args) {
 	// voy a comparar un numero con == 
 	
 
-	 float altura = 5.5f;
+	 float altura1 = 5.5f;
      float base = 3.5f;
      float mitad = 2f;
 
-     float area = (base * altura) / mitad;
+     float area = (base * altura1) / mitad;
 
      System.out.println(area);
 	
