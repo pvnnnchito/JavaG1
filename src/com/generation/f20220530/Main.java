@@ -3,6 +3,8 @@ package com.generation.f20220530;
 import java.util.ArrayList;
 import java.util.List;
 
+import com.generation.f20220531.Cliente;
+
 public class Main {
 
 	public static void main(String[] args) {
@@ -41,6 +43,7 @@ public class Main {
 			System.out.println(objetoAlumno.toString());
 		
 		}
+		
 		
 		
 		// crear tantas instancias como miembros del equipo existan
