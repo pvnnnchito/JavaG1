@@ -20,7 +20,7 @@ public class Main {
 		mascota.setNombre("Tom");
 		
 		
-		Perro perro = new Perro ();// creamos una istancia, e importamos desde otro package
+		Perro perro = new Perro ();// creamos una instancia, e importamos desde otro package
 		perro.setColor("RedFaund");
 		perro.setNombre("Ayun");
 		
